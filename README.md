@@ -17,12 +17,4 @@ ___
 ![results](img/results_on_departments.png)
 
 ## Continuous Improvement
-The evaluation of Chinese medical large language models (LLMs) aims to present model performance in a fair and objective manner, providing accurate guidance for model optimization. We hope to establish a fair, equitable, transparent, and systematic evaluation system to promote the advancement of research and application of LLMs.
-
-Evaluation for LLMs is still a challenging task that requires continuous improvement. We will continuously optimize MedBench. However, it's important to note that the rankings on the leaderboard do not strictly reflect the model's capabilities. How to scientifically, rigorously, and objectively evaluate the capabilities of LLMs remains a topic worthy of research.
-
-Here, we hope that:
-
-Model development teams can actively participate in the evaluation, objectively assess and optimize model performance.
-Provide feedback and engage in discussions regarding the evaluation methods to collectively improve MedBench.
-Foster the development of Chinese medical LLMs and the medical field as a whole.
+We hope to establish a fair, transparent, and systematic evaluation system to promote the research and development of Chinese medical large language models (LLMs). However, currently, the evaluation of LLMs remains a challenging research topic, making it difficult to objectively and fairly assess each model. We welcome the active participation of model development teams in the evaluation process and their feedback to contribute to the improvement of MedBench.
