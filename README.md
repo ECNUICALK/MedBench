@@ -2,7 +2,7 @@
 ___
 We have proposed a new evaluation benchmark for Chinese medical language models called MedBench. It possesses the following characteristics: (1) Authenticity and Novelty. It exclusively utilizes expert-annotated electronic health records (EHRs) and up-to-date medical examinations to minimize contamination. (2) Comprehensiveness and Multi-facetedness. It is meticulously designed to align with Chinese medical standards and practices by incorporating three-stage multi-disciplinary examinations and real-world clinical cases. (3) Practicality. Human evaluation on actual clinical cases ensures consistency with the practical realities of medicine, while difficulty-stratified divisions in MedBench allow for rapid assessment.
 
-[MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models](https://arxiv.org/abs/2312.12806)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29723)
 
 <img src="img/three_stage.png" alt="three_stage.png" width="500">
 
@@ -19,9 +19,9 @@ ___
 ## Dataset
 Considering privacy and copyright issues, we are currently not releasing the entire dataset. The available data includes a small number of questions from the Resident Standardization Training Exam.
 
-[MedBench_Resident](https://huggingface.co/datasets/nhyydt/MedBench_Resident))
+[MedBench_Resident](https://huggingface.co/datasets/nhyydt/MedBench_Resident)
 
-For research purposes only
+<b>For research purposes only</b>
 
 ## Cite our work
 ```
