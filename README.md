@@ -16,5 +16,28 @@ For better evaluating medical foundation models, this paper proposes MedBench as
 ___
 ![results](img/results_on_departments.png)
 
+## Dataset
+Considering privacy and copyright issues, we are currently not releasing the entire dataset. The available data includes a small number of questions from the Resident Standardization Training Exam.
+
+[MedBench_Resident](https://huggingface.co/datasets/nhyydt/MedBench_Resident))
+
+For research purposes only
+
+## Cite our work
+```
+@inproceedings{cai2024medbench,
+  title={Medbench: A large-scale chinese benchmark for evaluating medical large language models},
+  author={Cai, Yan and Wang, Linlin and Wang, Ye and de Melo, Gerard and Zhang, Ya and Wang, Yanfeng and He, Liang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={16},
+  pages={17709--17717},
+  year={2024}
+}
+```
+
+## Contact us
+51255901104@stu.ecnu.edu.cn
+
 ## Continuous Improvement
 We hope to establish a fair, transparent, and systematic evaluation system to promote the research and development of Chinese medical large language models (LLMs). However, currently, the evaluation of LLMs remains a challenging research topic, making it difficult to objectively and fairly assess each model. We welcome the active participation of model development teams in the evaluation process and their feedback to contribute to the improvement of MedBench.
